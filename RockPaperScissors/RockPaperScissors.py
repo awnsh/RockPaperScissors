@@ -1,6 +1,18 @@
 '''
 This project uses a series of if loops, lists, the input function, and a library, which includes different possibilites of what can occur if the bot or user picks something. It is a simple Rock Paper Scissors game. This version requires the user to pick an amount they want to play until. Click the "Run" button or Ctrl + Enter to play.
 Made by Awnsh
+
+     @@@@@@                               @@@@@@  
+    @@@@@@@@@                          @@@@@@@@@  
+    @@@@@@@@@@@         @@@@#        @@@@@@@@@@@  
+    @@@@@@@@@@@@@     @@@@@@@@      @@@@@@ @@@@@  
+    @@@@@@  @@@@@@   @@@@@@@@@@@  @@@@@@@  @@@@@  
+    @@@@@@   @@@@@@@@@@@@@ @@@@@@@@@@@@    @@@@@ 
+    @@@@@@     @@@@@@@@@    @@@@@@/@@@     @@@@@  
+    @@@@@@      @@@@@@@       @@@@@@       @@@@@  
+     @@@@@@  @@@@@@@@          *@@@@@@@@@@@@@@@@  
+      @@@@@@@@@@@@@              @@@@@@@@@@@@@@   
+         @@@@@@                      @@@@@@@      
 '''
 
 #allows to run loop again
